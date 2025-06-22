@@ -3,4 +3,3 @@ flask-cors==4.0.0
 torch==2.1.0  # You can adjust this based on your installed version of PyTorch
 numpy==1.26.4  # Adjust version as per your environment
 Pillow==10.2.0  # For handling images
-~
